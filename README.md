@@ -1,3 +1,4 @@
+🎯 objectives :-To evaluate overall sales performance, analyze customer behavior, including purchase frequency, average order value, product performance, identifying best-selling and underperforming products.
 
 🗃 Data Processing and Cleaning :-
 ◾ Removing null and duplications, Spelling errors, correct datatypes identifying.
